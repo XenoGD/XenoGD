@@ -1,0 +1,54 @@
+/**
+ * @name Xeno
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description A theme based on Xeno.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+ * @BDEditor Xeno's Theme
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+
+:root {
+  --background-image: url('https://www.roadtestreviews.com/wp-content/uploads/2021/03/2021-RC-F-Fuji-Speedway-Edition.jpg');
+  --background-image-blur: 5px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://www.roadtestreviews.com/wp-content/uploads/2021/03/2021-RC-F-Fuji-Speedway-Edition.jpg');
+  --popout-image-blur: 5px;
+  --popout-image-size: cover;
+  --popout-image-position: center;
+  --overlay-image: url('https://www.roadtestreviews.com/wp-content/uploads/2021/03/2021-RC-F-Fuji-Speedway-Edition.jpg');
+  --overlay-image-blur: 5px;
+  --overlay-image-size: cover;
+  --overlay-image-position: center;
+  --home-button-image: url('https://imgur.com/rMVAuqC');
+  --home-button-size: 100%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.8;
+  --left-brightness: 0.8;
+  --middle-brightness: 0.6;
+  --right-brightness: 0;
+  --overlay-brightness: 0.75;
+  --gradient-primary: 255,255,255;
+  --gradient-secondary: 0,0,0;
+  --link-colour: #808080;
+  --scrollbar-colour: rgb(0,0,0,1);
+  --gradient-direction: 320deg;
+  --tint-colour: 0,0,0;
+  --tint-brightness: 0;
+  --font: gg sans;
+  --window-padding: 20px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
